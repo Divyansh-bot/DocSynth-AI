@@ -96,10 +96,4 @@ streamlit run app.py
 
 ---
 
-## 📃 License
 
-MIT License
-
----
-
-> Built for Wasserstoff AI Internship Task by [Your Name]
