@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+pytesseract
+Pillow
+PyMuPDF
+tqdm
+chardet
+chromadb
+openai
+streamlit
